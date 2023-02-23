@@ -1,4 +1,4 @@
-<h2>Urban_Beach-Scenario</h2> <br/>
+<h2>Urban_Beach-Scenario</h2>
 using C++, OpenGL GLUT <br/>
 //Press R: For Rain //Press E: To Stop Rain
 
